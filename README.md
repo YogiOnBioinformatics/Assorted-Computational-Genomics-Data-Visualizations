@@ -11,7 +11,7 @@ This repository contains Biplots, Volcano plots, PCA plots, Heatmaps and more [C
 
 `Assorted Visualizations.pdf` 
 
-Contains [Differential Gene Expression](https://www.ebi.ac.uk/training/online/course/functional-genomics-ii-common-technologies-and-data-analysis-methods/differential-gene) Biplot, Volcano plot, [Sequence Motif[(https://en.wikipedia.org/wiki/Sequence_motif) output from [ChIP-Seq](https://www.illumina.com/techniques/sequencing/dna-sequencing/chip-seq.html) analysis of MXTX2 transcription factor on Zebrafish embryos and [Comparative Genomics](https://en.wikipedia.org/wiki/Comparative_genomics) analysis of genes between humans and gorillas using [UCSC LiftOver](https://genome.ucsc.edu/cgi-bin/hgLiftOver). 
+Contains [Differential Gene Expression](https://www.ebi.ac.uk/training/online/course/functional-genomics-ii-common-technologies-and-data-analysis-methods/differential-gene) Biplot, Volcano plot, [Sequence Motif](https://en.wikipedia.org/wiki/Sequence_motif) output from [ChIP-Seq](https://www.illumina.com/techniques/sequencing/dna-sequencing/chip-seq.html) analysis of MXTX2 transcription factor on Zebrafish embryos and [Comparative Genomics](https://en.wikipedia.org/wiki/Comparative_genomics) analysis of genes between humans and gorillas using [UCSC LiftOver](https://genome.ucsc.edu/cgi-bin/hgLiftOver). 
 
 
 `Differential Gene Expression Replicate 1.pdf` and `Differential Gene Expression Replicate 2.pdf`
